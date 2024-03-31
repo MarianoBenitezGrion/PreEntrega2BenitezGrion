@@ -1,0 +1,25 @@
+div.filtro{
+    display:flex;
+    gap:10px;
+}
+.filtro input{
+    width: 300px;
+    
+}
+.filtro input, .filtro select, .filtro button{
+    margin-bottom: 20px;
+}
+section.texto{
+    justify-content: center;
+    align-items: center;
+}
+section.texto article.borde{
+    width: 400px;
+    border: solid 5px black;
+    margin-bottom: 5px;
+    justify-content: center;
+    text-align: center;
+}
+.rojo{
+    color: red;
+}
